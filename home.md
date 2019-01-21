@@ -1,4 +1,4 @@
-<!-- TITLE: Home -->
-<!-- SUBTITLE: A quick summary of Home -->
+<!-- TITLE: Главная -->
+<!-- SUBTITLE: Главная страница энциклопедии -->
 
 # Header
